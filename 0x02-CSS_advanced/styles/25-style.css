@@ -561,7 +561,7 @@ ul.row {
     color: var(--text-color);
 }
 .card-services .card-title {
-    margin: none;
+    margin: 0;
 }
 .card-services a {
     display: block;
