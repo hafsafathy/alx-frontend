@@ -533,9 +533,6 @@ ul.row {
 .social-link > svg {
     fill: var(--text-color);
 }
-.footer-address {
-    color: var(--text-color);
-}
 .card-services .card-title {
     margin: none;
 }
@@ -548,4 +545,7 @@ ul.row {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
+}
+.footer-address {
+    color: var(--text-color);
 }
